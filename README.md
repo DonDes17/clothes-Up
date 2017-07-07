@@ -13,31 +13,31 @@ Voici une e-boutique créée à partir du thème Divi et de Woocommerce.Elégant
 * Ajout de différent plug-in
 
 
-![Image 0 du site](/clotheUp_0.png)  
+![Image 0 du site](Clothes-Up/clotheUp_0.png)  
 -
 
-![Image 1 du site](/clotheUp_1.png)
+![Image 1 du site](Clothes-Up/clotheUp_1.png)
 -
 
-![Image 2 du site](/clotheUp_2.png)
+![Image 2 du site](Clothes-Up/clotheUp_2.png)
 -
 
-![Image 3 du site](/clotheUp_3.png)
+![Image 3 du site](Clothes-Up/clotheUp_3.png)
 -
 
-![Image 4 du site](/clotheUp_4.png)
+![Image 4 du site](Clothes-Up/clotheUp_4.png)
 -
 
-![Image 5 du site](/clotheUp_5.png)
+![Image 5 du site](Clothes-Up/clotheUp_5.png)
 -
 
-![Image 6 du site](/clotheUp_6.png)
+![Image 6 du site](Clothes-Up/clotheUp_6.png)
 -
 
-![Image 7 du site](/clotheUp_7.png)
+![Image 7 du site](Clothes-Up/clotheUp_7.png)
 -
 
-![Image 8 du site](/clotheUp_8.png)
+![Image 8 du site](Clothes-Up/clotheUp_8.png)
 -
 
-![Image 9 du site](/clotheUp_9.png)
+![Image 9 du site](Clothes-Up/clotheUp_9.png)
